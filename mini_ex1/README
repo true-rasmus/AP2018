@@ -1,1 +1,15 @@
-![screenshot](https://raw.githubusercontent.com/true-rasmus/AP2018/master/mini_ex1/Capture1.PNG )
+InstaClubVisuals v1
+Use arrowkeys to modify the details of the shape and randomize color and rotationspeed.
+- I intended to add the possibiltity to enter a BPM and have rotationspeed/framecount depend on that.
+This function should be easy to implement but I ran out of time. perhaps in v2 :)
+
+Sceens:
+https://raw.githubusercontent.com/true-rasmus/AP2018/master/mini_ex1/Capture1.PNG
+
+https://raw.githubusercontent.com/true-rasmus/AP2018/master/mini_ex1/Capture2.PNG
+
+
+Link to program:
+- okay i cant get rawgit to work. check out the code tho: https://github.com/true-rasmus/AP2018/blob/master/mini_ex1/empty-example/instaclubvisuals.js
+
+
