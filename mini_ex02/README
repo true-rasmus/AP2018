@@ -16,3 +16,18 @@ TURN ON SOUND
 
 Link to run program:
 https://rawgit.com/true-rasmus/AP2018/master/mini_ex02/empty-example/index.html
+
+
+making the program:
+
+i had some troubles getting control of the box that hightlights which fader you're interacting with. when the mouseXY wasn't around 
+a certain fader anymore, it didn't remove the box, just drew more when a new fader was selected. i learned that placing the background
+in the draw function prevented this, as the background is equally drawn every frame.
+i played around with the basic sound options. loading, volume, looping. they are axtually very simple to work. volume and other audio 
+qualities work as variables which makes that easy to manipulate through functions - and is definititly something i want to dive further into.
+
+
+initially i drew a piano out of shapes but i ended up in another direction. i drew lines and squares to represent a mixer and thought it
+would be fun to make each 'fader' in the mixer turn on and off a bunch of animal sounds. because the representation of the mixer turned 
+out so basic and stupid i made some basic and stupid music to go along with it. I guess the notion of fun is a sort of stupid-fun - as in,
+there is nothing deeper going on. it just sounds stupid - but somehow hilarious at the same time, when you add enough animals to the track. 
