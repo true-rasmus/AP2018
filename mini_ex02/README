@@ -23,8 +23,8 @@ making the program:
 i had some troubles getting control of the box that hightlights which fader you're interacting with. when the mouseXY wasn't around 
 a certain fader anymore, it didn't remove the box, just drew more when a new fader was selected. i learned that placing the background
 in the draw function prevented this, as the background is equally drawn every frame.
-i played around with the basic sound options. loading, volume, looping. they are axtually very simple to work. volume and other audio 
-qualities work as variables which makes that easy to manipulate through functions - and is definititly something i want to dive further into.
+i played around with the basic sound options. loading, volume, looping. they are actually very simple to work with. volume and other audio 
+qualities work as variables which makes them easy to manipulate through functions - and is definititly something i want to dive further into.
 
 
 initially i drew a piano out of shapes but i ended up in another direction. i drew lines and squares to represent a mixer and thought it
