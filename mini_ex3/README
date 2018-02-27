@@ -1,0 +1,39 @@
+
+    
+Loading Frustration
+----------------------
+A throbber and progress-bar that becomes frustratingly slow and meaningless over time.
+
+Screenshot: 
+ 
+
+Making the program:
+
+
+I originally had the values that determine the slow down set up in arrays. 
+But later, as I wanted the variables to both control the width of the loading bar and the speed of the rotation of the throbber, 
+I experienced trouble managing the value in arrays through statements. 
+Becoming frustrated myself, I chose to do it without arrays and instead minupulate one value via conditions.
+
+The throbber is based in the example used in class03.
+I like the idea of setting uo your own functions and then calling them in the draw function. 
+This creates a more tangible draw function and helps to keep an overview of the artifacts manipulated every frame and of 
+the priotiry and/or depth of the program. Further, instead of a line, i drew a background to counter a trail from my moving objects. 
+And lastly, i used my before mentioned variables (instead if framecount) to control both rotation speed of the throbber in default 
+and to make it slow down over time.
+
+Link to program:
+https://rawgit.com/true-rasmus/AP2018/master/mini_ex3/empty-example/index.html 
+ 
+ 
+Time:
+
+ 
+Growing up the only tech-savy person in my family, and the only person who actually went online before the millenial, I quickly
+became the computer wizard of our imidiate family. I've spend hundreds and hundreds of hours looking at throbbers and progress bars since
+the distribution of the internet in 96. The reason I write this is, back then.. you stayed for the loading. Personal computers weren't 
+strong enough to multitask, software installations were buggy, and diagnosing was confusing. And yet, the trust in computer was still about
+15 years from being a reality... which means you sat there.. the inconsistency of 0-100, throbbers that didn't indicate progress,
+bars that moved in and at random pace.. your sense of time and progress became skewed thanks to these 'qualities'. specially within the
+last minutes where you think it'll be over soon.
+- and I guess that's what I went for with this program. 
