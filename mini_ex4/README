@@ -1,0 +1,8 @@
+
+Link to program:
+https://rawgit.com/true-rasmus/AP2018/master/mini_ex4/empty-example/index.html
+
+My program is very simple. It captures the sound input from the computer mic and display it as a colorized frequency spectrum. p5's sound library has a sound analyzer called FFT. Every frame it stores the frequency values in an array. The visualized spectrum is drawn through a single rect() - multiple instances occur because of the loop, and color and the 'movement' of the individual rectangles is done by using the FFT values instead of x/y & h/w.
+
+Making this program, I think i'm finally wrapping my head around the " for (let I .... " - loop, which is very different from other loop functions i've learned of before. I further played around with connect() function after learning that just enabling the microphone would cause a feedback-loop. it's interesting, that you can use this function to route things .. fx if (a>b){sound.conect(spectrum)} else {sound.connect(waveform)} -
+
