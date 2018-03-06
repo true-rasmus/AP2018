@@ -6,3 +6,6 @@ My program is very simple. It captures the sound input from the computer mic and
 
 Making this program, I think i'm finally wrapping my head around the " for (let I .... " - loop, which is very different from other loop functions i've learned of before. I further played around with connect() function after learning that just enabling the microphone would cause a feedback-loop. it's interesting, that you can use this function to route things .. fx if (a>b){sound.conect(spectrum)} else {sound.connect(waveform)} -
 
+My program doesn't explore much in critical-design-terms. But looking at the visualization of the mic-input makes me think:
+at its core, what humans often percieve as in-tune are the fequency of the voice/instrument in realtion to itself.
+meaning, that we can hear if something sounds bad or off.. with fft, these information is stores as numbers and can be externalized in whatever way imaginable. This is fascinating, cause this means the visual representation is the one we base out oppinion on. Whst i mean to say is: if someone only had the visual impression, and not an audible one, the person singing off_key witha bad formant might give the most visually interesting representation.
