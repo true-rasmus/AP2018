@@ -7,9 +7,12 @@ CONTROLS:
 
 press any key and make the white square jump up. try to see if you can make the square go over the green obstacle. (it is possible, but you may have to mash a bunch of keys i rappid succesion - just try. it's a feature)
 
+you get points for the duration the square is above the target.
+you get deducted if the square collides to much with the target.
+
 
 Link to program:
-
+https://rawgit.com/true-rasmus/AP2018/master/mini_ex5/empty-example/index.html
 
 
 
