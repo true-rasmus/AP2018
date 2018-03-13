@@ -1,0 +1,18 @@
+
+GET OVER THE GREEN OBSTACLE
+
+
+
+CONTROLS:
+
+press any key and make the white square jump up. try to see if you can make the square go over the green obstacle. (it is possible, but you may have to mash a bunch of keys i rappid succesion - just try. it's a feature)
+
+
+Link to program:
+
+
+
+
+Object oriented programming.
+
+The idea of classes an so on is very simple. yet i've had immense trouble wrapping my head around it - because in p5 this is such a strange way to deal with object oriented programming (in comparison with game engines where i've previously tried to do OOP) maybe strange isn't the right word - but the way you think of an object, an by default how you program them, is both similar in terms of how you execute computational thinking to your obbject but also vastly different in terms of managing (structure and iterations) aswell as how you add/remove instance in accordance to them selves, the interactions possible and depth. That being said, when the classes and constructor functions started to make more and mroe sense to me i found the way it works strangly familiar. i wanna get into adding more .js files to my program if i'm going to do more complex code: this will make the structure be more like i know from other languages aswell as my workflow in audio design/editting - i guess i just need to figure out how to call a function in a .js from another .js. shouldn't bee the hard :D 
