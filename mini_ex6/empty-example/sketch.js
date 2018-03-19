@@ -25,16 +25,17 @@ function draw() {
 
     if (random(1) <0.5) { // randomlys chose between if or else statement
       stroke(random(50),random(40),random(30));
-      // dark color values, so everything isn't red and blue
+      // dark color values to contrast the many drawn colors
       arc(mouseX,mouseY,x,y,mouseX,mouseY);
 
 
     } else {
 
       stroke(random(255),random(i),random(200),random(200));
-      // (pseudo)randomized colors abd alpha
       // i use 'i' as green value, to make it less dominant
       arc(mouseX,mouseY,x,y,mouseX,mouseY+y);
+      //a mix of mouse.pos and hard values on shapes.
+      //gives both the ability to impact the 'print' and a set of rules the 'print' follows
   }
   }
   x+=1;
@@ -42,7 +43,7 @@ function draw() {
   x = 0;
   y = random(50);
 
-  // this makes the shapes grow for some time before returning and changing behaviour
+  // this makes the shapes grow for some time before returning and 'changing behaviour'
 
   }
 }
