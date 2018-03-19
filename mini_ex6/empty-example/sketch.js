@@ -1,10 +1,12 @@
 
 var x = 0;
 var y = 0;
+var fr = 60
 
 function setup() {
   createCanvas(750,500);
   background(0);
+  frameRate(fr)
 }
 
 function draw() {
@@ -44,6 +46,15 @@ function draw() {
   y = random(50);
 
   // this makes the shapes grow for some time before returning and 'changing behaviour'
+    
+   
 
   }
+}
+
+function keyPressed(){
+  if (fr === 60){
+    fr = 0}
+ else{
+    fr = 60}
 }
