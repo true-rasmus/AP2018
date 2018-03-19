@@ -1,4 +1,5 @@
 # ColorPrint
+#### Touchscreen recommended
 
 ## Screenshots
 ![image](https://github.com/true-rasmus/AP2018/blob/master/mini_ex6/Udklip1.PNG)
@@ -9,6 +10,7 @@
 
 ### link to program:
 https://rawgit.com/true-rasmus/AP2018/master/mini_ex6/empty-example/index.html
+
 
 #### about the program:
 inspired by the PRT CHR - I wanted to make a generative program that slowly fills the canvas with shapes and colors... yet I wanted the user of the program to have at least a bit of control... or to at least be able to have some amount of impact of how the shapes a drawn.
