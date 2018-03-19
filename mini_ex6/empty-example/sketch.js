@@ -51,10 +51,3 @@ function draw() {
 
   }
 }
-
-function keyPressed(){
-  if (fr === 60){
-    fr = 0}
- else{
-    fr = 60}
-}
