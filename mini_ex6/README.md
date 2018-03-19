@@ -1,5 +1,4 @@
 # ColorPrint
-#### Touch screen recommended
 
 ## Screenshots
 ![image](https://github.com/true-rasmus/AP2018/blob/master/mini_ex6/Udklip1.PNG)
@@ -10,6 +9,8 @@
 
 ### link to program:
 https://rawgit.com/true-rasmus/AP2018/master/mini_ex6/empty-example/index.html
+
+Touch screen recommended :) 
 
 
 #### about the program:
