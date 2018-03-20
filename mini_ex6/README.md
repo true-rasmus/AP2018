@@ -14,7 +14,7 @@ Touch screen recommended :)
 
 
 #### about the program:
-inspired by the PRT CHR - I wanted to make a generative program that slowly fills the canvas with shapes and colors... yet I wanted the user of the program to have at least a bit of control... or to at least be able to have some amount of impact of how the shapes a drawn.
+inspired by the PRT CHR / 10 PRINT - I wanted to make a generative program that slowly fills the canvas with shapes and colors... yet I wanted the user of the program to have at least a bit of control... or to at least be able to have some amount of impact of how the shapes a drawn.
 My program calculates (every frame) a chance to either draw one of two possible shapes and sets of color values. The behaviours changes depending on where the user positions the mouse (or finger, if touch/mousePad input) aswell as when the x-value exceeds the width of the canvas.
 
 The code is actually pretty simple and i've added comments in the .js if you want to study it.
