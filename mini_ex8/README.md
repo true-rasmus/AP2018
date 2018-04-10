@@ -26,4 +26,4 @@ I added and Interval instead of a Submit button. This auto-request the data ever
 
 .... I initially tried to accomplish this by doing some conditional statements in the drawfunction. But after printing the framerate, i realized that the draw function only worked for 2 frames before freezing..
 let me explain: var d++; - if i then print the value d it would show 1, then 2 and stop at 3... not advancing more frames.
-Never figured out how to fix this, so i added the autoupdate in the index.html file.
+Never figured out how to fix this, so i added the autoupdate in the gotData function.
